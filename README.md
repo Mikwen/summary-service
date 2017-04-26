@@ -1,2 +1,2 @@
 # summary-service
-Python bot
+Python bot for use with https://github.com/Mikwen/EDITF1
